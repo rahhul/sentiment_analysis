@@ -1,0 +1,7 @@
+The heading really says it all, but, just for reference.
+No reference voltage is necessary - no batteries to change, no fancy wiring -
+just hook red to positive, black to negative.
+Seems completely waterproof - it's all assembled through the front,
+and then sealed with clear epoxy at the factory.
+Do make sure about positive and negative - you might be able to fry this by
+connecting it backwards.
